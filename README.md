@@ -1,6 +1,6 @@
 # Sprout
 . Water
-. seed
+. lentle seed
 . sun light
 .  Jar
 . Mesh
