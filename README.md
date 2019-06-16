@@ -1,6 +1,6 @@
 # Sprout
-Water
-seed
-sun light
-Jar
-Mesh
+. Water
+. seed
+. sun light
+.  Jar
+. Mesh
