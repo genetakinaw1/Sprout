@@ -1,6 +1,6 @@
-# Sprout
+# Red clover Sprouting
 . Water
-. lentle seed
+. Red clover seed
 . sun light
 .  Jar
 . Mesh
