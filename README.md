@@ -4,3 +4,4 @@
 . sun light
 .  Jar
 . Mesh
+. steps for sprouting
